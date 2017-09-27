@@ -1,0 +1,3 @@
+# chartroom
+基于ssm框架搭建并整合redis和websocket做成的一个网络在线聊天室
+只要修改配置文件里面的redis连接和数据库连接即可，建表语句在resources下面。
